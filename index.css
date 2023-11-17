@@ -28,7 +28,7 @@ main {
     font-family: 'Orbitron', sans-serif;
     font-weight: 900;
     text-shadow: 0px 0px 10px #161616;
-    color: rgb(215, 228, 209);
+    color: rgb(202, 213, 195);
 }
 
 /* cryptocurrency styling */
@@ -86,17 +86,17 @@ div#crypto {
 #mot-quote {
     margin-top: 25px;
     margin-bottom: 5px;
-    font-size: 0.9rem;
+    font-size: 1.7rem;
+    text-shadow: #2f2f2f 0px 0px 10px;
 }
 
 .quote {
-    background-color: #6439e4;
-    color: rgb(207, 160, 197);
+    background-color: #bab9bb;
+    color: rgb(75, 100, 91);
     padding: 15px;
     margin-top: 5px;
     text-align:center;
     text-transform: uppercase;
-    text-shadow: 0px 0px 10px #262626;
 }
 
 .divider {
